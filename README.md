@@ -47,4 +47,8 @@ service cloud.firestore {
   }
 }
 ```
+## See details
+
+https://firebase.google.com/docs/firestore/security/get-started
+
 
