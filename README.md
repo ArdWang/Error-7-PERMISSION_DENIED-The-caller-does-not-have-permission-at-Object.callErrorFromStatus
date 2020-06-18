@@ -51,4 +51,6 @@ service cloud.firestore {
 
 https://firebase.google.com/docs/firestore/security/get-started
 
+如果添加了这些权限那么app中或者网页中就需要导入登录 google.auth不然就会获取数据错误
+
 
